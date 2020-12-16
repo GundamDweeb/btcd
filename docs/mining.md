@@ -29,4 +29,4 @@ certificate into the default system Certificate Authority list.
 
 /
 
-`cgminer -o https://127.0.0.1:8334 -u rpcuser -p rpcpassword`
+
